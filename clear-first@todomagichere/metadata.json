@@ -1,0 +1,6 @@
+{
+  "uuid": "clear-first@todomagichere",
+  "name": "Limpiar notificaciones arriba",
+  "description": "Sitúa el botón Limpiar al inicio del historial de notificaciones.",
+  "shell-version": ["50"]
+}
